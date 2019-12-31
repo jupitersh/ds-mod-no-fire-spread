@@ -7,7 +7,7 @@ description = [[
 
 author = "辣椒小皇纸"
 
-version = "1.1.0"
+version = "1.1.1"
 
 api_version = 6
 
@@ -17,8 +17,6 @@ shipwrecked_compatible = true
 hamlet_compatible = true
 
 restart_required = false
-
-standalone = true
 
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
