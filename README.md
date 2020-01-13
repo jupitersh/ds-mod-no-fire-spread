@@ -1,5 +1,7 @@
 # No Fire Spread
 
+![](https://steamuserimages-a.akamaihd.net/ugc/787499023185441209/5EC6CB0C8E847E4E1E93501C1B34F0977CFD6EFE/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+
 ## Overview
 
 This is a mod for the game of Don't Starve which is available in the Steam Workshop. 
